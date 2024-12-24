@@ -1,4 +1,4 @@
-# chat_app_hin
+# WeChat_app
 
 A new Flutter project.
 
